@@ -20,7 +20,7 @@
   ],
   "dependencies": [
     {
-      "name": "dice-so-nice",
+      "name": "calendar-weather",
       "manifest": "https://github.com/DasSauerkraut/calendar-weather/blob/master/module.json"
     }
   ],
