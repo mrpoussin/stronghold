@@ -21,7 +21,7 @@
   "dependencies": [
     {
       "name": "calendar-weather",
-      "manifest": "https://github.com/DasSauerkraut/calendar-weather/blob/master/module.json"
+      "manifest": "https://raw.githubusercontent.com/DasSauerkraut/calendar-weather/master/package/module.json"
     }
   ],
   "conflicts": [
