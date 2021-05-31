@@ -28,7 +28,7 @@
     
   ],
   "esmodules": [
-    "/scripts/module.js"
+    "/scripts/stronghold.js"
   ],
   "scripts": [
     "/scripts/lib/lib.js"
