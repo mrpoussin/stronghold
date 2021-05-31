@@ -1,7 +1,7 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "stronghold-management",
+  "title": "Strongholds",
+  "description": "Build, manage and track your player's stronghold.",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
@@ -9,9 +9,12 @@
   "compatibleCoreVersion": "0.7.9",
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Mrpoussin",
+      "url": "https://github.com/mrpoussin/"
+    },
+    {
+      "name": "Kerast",
+      "url": "https://github.com/mrpoussin/"
     }
   ],
   "dependencies": [
